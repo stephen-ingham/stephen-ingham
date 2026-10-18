@@ -18,7 +18,7 @@
 
 I'm a Software Engineer!
 
-- 🔭 I have a range of full stack web/mobile app experience and am currently seeking developer roles.
+- 🔭 I have a range of full stack web/mobile app experience.
 - 🌱 I’m currently exploring further into building agent-driven systems.
 - ✍️ I blog fairly often on [dev.to](https://dev.to/stephen_ingham) and [Medium](https://medium.com/@stephenmichael833) sharing my technical learnings with the community.
 - 📱 I also help organise/run a tech meetup on mobile dev called [Leeds Mobile](https://www.leedsmobile.com/).
