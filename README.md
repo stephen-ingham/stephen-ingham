@@ -84,9 +84,9 @@ I'm a Software Engineer!
 ### :book: Badges
 
 <!--START_SECTION:badges-->
-[![Create Your First Gemini Enterprise Application](https://images.credly.com/size/250x250/images/3c923d13-42da-4765-995d-59f3030e042a/blob)](https://www.credly.com/badges/58198656-ac9a-44a9-95f3-0ae955ca6cc1)
-[![Engineer AI Agents with Agent Development Kit (ADK)](https://images.credly.com/size/250x250/images/000655a5-3837-4c38-b906-2eb9c059ab36/blob)](https://www.credly.com/badges/103868a7-df03-41dc-b7f1-97de38ba18a5)
-[![AWS Educate Introduction to Generative AI - Training Badge](https://images.credly.com/size/250x250/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/5c7190cb-3429-4005-aa1e-7f329835b471)
+[![Create Your First Gemini Enterprise Application](https://images.credly.com/size/80x80/images/3c923d13-42da-4765-995d-59f3030e042a/blob)](https://www.credly.com/badges/58198656-ac9a-44a9-95f3-0ae955ca6cc1)
+[![Engineer AI Agents with Agent Development Kit (ADK)](https://images.credly.com/size/80x80/images/000655a5-3837-4c38-b906-2eb9c059ab36/blob)](https://www.credly.com/badges/103868a7-df03-41dc-b7f1-97de38ba18a5)
+[![AWS Educate Introduction to Generative AI - Training Badge](https://images.credly.com/size/80x80/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/5c7190cb-3429-4005-aa1e-7f329835b471)
 <!--END_SECTION:badges-->
 
 [![An image of @cyprste2717218's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyprste2717218)](https://holopin.io/@cyprste2717218)
